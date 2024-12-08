@@ -32,7 +32,7 @@ o	Cosine similarity to measure how closely user queries match book titles.
 **How to Use**
 The system is implemented in a Jupyter Notebook. Users can clone the project, install the required Python libraries, and interact with the recommendation engine by running the provided cells. The process is straightforward and designed for ease of use.
 
-**Improvements for the Future**
+## **Improvements for the Future**
 
 While the system works well for title-based recommendations, there are ways to make it even better:
 •	Web Hosting: Hosting the system online through a tool like Flask or Streamlit would make it more accessible to users without programming knowledge.
@@ -41,7 +41,7 @@ While the system works well for title-based recommendations, there are ways to m
 •	Scalability: Optimizing the system for larger datasets would allow it to handle more books and faster processing.
 •	Personalization: Adding features like user profiles or tracking user preferences could make recommendations more tailored and dynamic.
 
-**Conclusion**
+## **Conclusion**
 This project shows how NLP can be used to build a practical recommendation system. By combining data cleaning, EDA, and advanced NLP techniques, the system delivers meaningful results for users. With further development, such as hosting the system online and adding advanced features, it could become a fully deployable platform that connects users with their next great read.
 
 
