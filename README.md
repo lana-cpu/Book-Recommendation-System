@@ -1,4 +1,4 @@
-# Book Recommendation System Using NLP by Lana G.
+# Book Recommendation System Using NLP by Lana Gilmore
 
 The Book Recommendation System is designed to help users find books based on their interests. By using Natural Language Processing (NLP) techniques, the system matches user input, such as keywords or genres, to relevant book titles in the dataset. The goal of the project is to create a simple yet effective tool for recommending books.
 
