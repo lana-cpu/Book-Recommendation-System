@@ -33,7 +33,9 @@ o	TF-IDF vectorization to calculate the importance of words in book titles.
 
 o	Cosine similarity to measure how closely user queries match book titles.
 
-**•	Recommendation System:** Users can input phrases such as "mystery thriller" to receive a list of similar books, including titles, authors, and ratings.
+**•	Recommendation System:** 
+
+Users can input phrases such as "mystery thriller" to receive a list of similar books, including titles, authors, and ratings.
 
 ## **How to Use**
 The system is implemented in a Jupyter Notebook. Users can clone the project, install the required Python libraries, and interact with the recommendation engine by running the provided cells. The process is straightforward and designed for ease of use.
