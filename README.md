@@ -4,9 +4,13 @@ The Book Recommendation System is designed to help users find books based on the
 
 "The dataset used for this project is the **Book Recommendation Dataset**, sourced from Kaggle : (https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset). 
     "It consists of various files containing detailed information about books, including:
-    "- **Books.csv**: Includes book titles, authors, publication years, and links to book images.
-    "- **Ratings.csv**: Contains user ratings for books.
-    "- **Users.csv**: Includes user demographic information.
+    
+   
+"- **Books.csv**: Includes book titles, authors, publication years, and links to book images.
+
+ "- **Ratings.csv**: Contains user ratings for books.
+
+ "- **Users.csv**: Includes user demographic information.
 
 **Key Features**
 This project uses several techniques to ensure accurate and meaningful recommendations:
