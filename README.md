@@ -2,7 +2,7 @@
 
 The Book Recommendation System is designed to help users find books based on their interests. By using Natural Language Processing (NLP) techniques, the system matches user input, such as keywords or genres, to relevant book titles in the dataset. The goal of the project is to create a simple yet effective tool for recommending books.
 
-"The dataset used for this project is the **Book Recommendation Dataset**, sourced from Kaggle : (https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset). 
+The dataset used for this project is the **Book Recommendation Dataset**, sourced from Kaggle : (https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset). 
 
 It consists of various files containing detailed information about books, including:
     
