@@ -13,7 +13,8 @@ It consists of various files containing detailed information about books, includ
 
 **Users.csv**: Includes user demographic information.
 
-**Key Features**
+## **Key Features**
+
 This project uses several techniques to ensure accurate and meaningful recommendations:
 
 **•	Data Cleaning and Exploration:** The dataset was prepared by removing duplicates, handling missing values, and conducting exploratory data analysis (EDA). 
